@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MarcadoresCategoriaFirebase</string>
+    <string name="camposvacios">Campos vacíos</string>
+    <string name="usuarioregistrado">Usuario registrado</string>
+    <string name="usuarioexiste">El usuario introducido existe</string>
+    <string name="loginincorrecto">Usuario o contraseña incorrectos</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="marcadoradd">Marcador añadido</string>
+    <string name="categoriaadd">Categoria añadida</string>
+    <string name="existecategoria">La categoría introducida existe</string>
+    <string name="marcadoreditado">Marcador editado</string>
+    <string name="categoriamodificada">Categoría modificada</string>
+</resources>
